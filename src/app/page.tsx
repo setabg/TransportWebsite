@@ -1,8 +1,8 @@
-import NavBar from "./components/NavBar";
-import Hero from "./components/Hero";
-import Other from "./components/Oher";
-import Description from "./components/Description";
-import ContactForm from "./components/ContactForm"
+import NavBar from "./components/navBar";
+import Hero from "./components/hero";
+import Other from "./components/oher";
+import Description from "./components/description";
+import ContactForm from "./components/contactForm"
 
 export default function Home() {
   return (
